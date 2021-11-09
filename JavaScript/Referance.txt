@@ -1,0 +1,10 @@
+Problem: https://leetcode.com/problems/maximum-subarray/
+
+https://medium.com/tech-life-fun/leet-code-53-maximum-subarray-detailed-explained-python3-solution-d91c7affc02a
+https://www.tutorialcup.com/leetcode-solutions/maximum-subarray-leetcode-solution.htm
+
+
+Problem: https://leetcode.com/problems/palindrome-number/
+https://www.freecodecamp.org/news/js-basics-how-to-reverse-a-number-9aefc20afa8d/
+https://dev.to/urfan/leetcode-reverse-integer-with-javascript-1ecn
+
