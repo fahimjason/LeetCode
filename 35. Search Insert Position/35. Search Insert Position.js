@@ -15,10 +15,10 @@ var searchInsert = function (nums, target) {
         }
     }
 
-    if (!result && target === 0) {
+    if (!result && target < nums[0]) {
         result = 0;
     }
-    else if (!result) {
+    else if (result === 'undefined') {
         result = nums.length;
     }
 
