@@ -1,3 +1,8 @@
+/*
+Problem: 125. Valid Palindrome
+Link: https://leetcode.com/problems/valid-palindrome/
+*/
+
 var isPalindrome = function (s) {
     // Sanitize the input sting
     s = s.toLowerCase().replace(/[\W_]/g, "");
