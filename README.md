@@ -1,4 +1,4 @@
-# PROBLEM SOLVING
+# PROBLEM SOLVING APPROACH
 
 ### Understand the Problem
 
